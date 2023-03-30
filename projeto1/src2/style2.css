@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table, th, td{
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 8px;
+    align-items: center;
+    margin: auto;
+    margin-top: 10vh;
+    width: 60vh;
+    font-size: x-large;
+    background-color: rgb(255, 0, 0);
+    
+
+    
+}
+td{
+    border-width: 2px;
+    background-color: rgb(255, 255, 255);
+   text-align: center;
+}
+th{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 66%, rgba(255,255,255,1) 100%);
+}
